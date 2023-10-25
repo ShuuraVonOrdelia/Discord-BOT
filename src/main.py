@@ -21,5 +21,5 @@ async def on_ready():  # When the bot is ready
 async def pong(ctx):
     await ctx.send('pong')
 
-token = "MTE2Njc4MzkzODE0OTIzMjY1MA.GjiiPP.FMoh1cs_B6p4OVm9UXsLG65KHLwdPe5VexeFGk"
+token = "<MY_TOKEN>"
 bot.run(token)  # Starts the bot
